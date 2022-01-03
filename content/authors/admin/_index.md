@@ -41,4 +41,4 @@ title: Abhishek Rishabh
 
 I am a PhD candidate in the marketing area at the Indian School of Business. I am on the academic job market. I am broadly interested in answering marketing related questions using empirical methods. I have been fortunate enough to convince large firms to provide their proprietary data for most of my research projects. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Abhishek_Rishabh_Resume_Dec_2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Abhishek_Rishabh_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
