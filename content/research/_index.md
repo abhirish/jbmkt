@@ -8,7 +8,7 @@ view: 2
 ---
 
  
-### Popular or Crowded: Subscription Based Donations -JOB MARKET PAPER [Download](https://www.dropbox.com/s/29kao2zqnts8w9x/Popular%20or%20Crowded%20Subscription%20Based%20Donations.pdf?dl=0)
+### Popular or Crowded: Subscription Based Donations -JOB MARKET PAPER {{< icon name="download" pack="fas" >}}{{< staticref "uploads/donations_paper_abhishek.pdf" "newtab" >}}Download{{< /staticref >}}.
 _with Madhu Viswanathan and Pradeep Chintagunta_\
 Subscription-based donations are becoming a popular fundraising tool as they are perceived to yield a
 high donor lifetime value. A common practice of online donation platforms is to display, for each cause
@@ -24,7 +24,7 @@ information to current and active donors.
 ![Image](gi_research_img.png)
 
 
-### Regulatory Warnings and Endorsement Disclosure on Social Media [Download](https://www.dropbox.com/s/pe492yqyj2g9lzx/Regulatory%20Warnings%20and%20Endorsement%20Disclosure.pdf?dl=0) 
+### Regulatory Warnings and Endorsement Disclosure on Social Media {{< icon name="download" pack="fas" >}}{{< staticref "uploads/instagram_paper_abhishek.pdf" "newtab" >}}Download{{< /staticref >}}.
 Social media platforms such as Instagram have become an essential channel for influencer marketing. Regulatory bodies such as FTC (in the US) and ASA (in the UK) require influencers on these platforms to declare an advertised social media post as an ad using hashtags such as #ad, #sponsored. However, often in- fluencers fail to disclose the endorsements. To discourage these unprofessional practices, FTC sent warning notices to 90 influencers in March 2017. We use this event as a natural experiment to estimate the impact of FTC notices on a) influencers’ disclosure levels and b) follower engagement. We curated a novel dataset that consists of nearly 150 thousand Instagram posts over 6 years period. As expected, we find that advertising disclosures increased for the influencers who received the notice, and their follower engagement (likes and comments) was adversely affected. Furthermore, we estimated the deterrence effect of FTC notices on other influencers. We find significant spillover effects on other influ- encers in the FTC jurisdiction. Specifically, the disclosure percent of the influ- encers who did not receive notice also increased compared to the control group. Our findings provide valuable insights to regulators and social media managers on the direct and deterrence effects of regulator notices.
 ![Image](insta_research_img.png)
 
